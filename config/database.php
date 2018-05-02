@@ -11,23 +11,23 @@
 
 return [
     // 数据库类型
-    'type'            => 'mysql',
+    'type'            => '',
     // 服务器地址
-    'hostname'        => '47.98.109.213',
+    'hostname'        => '',
     // 数据库名
-    'database'        => 'tutor',
+    'database'        => '',
     // 用户名
-    'username'        => 'root',
+    'username'        => '',
     // 密码
-    'password'        => 'Sunyy320',
+    'password'        => '',
     // 端口
-    'hostport'        => '3306',
+    'hostport'        => '',
     // 连接dsn
     'dsn'             => '',
     // 数据库连接参数
     'params'          => [],
     // 数据库编码默认采用utf8
-    'charset'         => 'utf8',
+    'charset'         => '',
     // 数据库表前缀
     'prefix'          => '',
     // 数据库调试模式
